@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475607485481",
+    "firebase_url": "https://foodinsulinapp-default-rtdb.firebaseio.com",
+    "project_id": "foodinsulinapp",
+    "storage_bucket": "foodinsulinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475607485481:android:f35552238627e5a3442038",
+        "android_client_info": {
+          "package_name": "com.example.insulinapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475607485481-ln4r2acu125qdtb6mh73rimq56grn5vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insulinapplication",
+            "certificate_hash": "9bb37f4a08651d296a5de1ed1db37504eb068616"
+          }
+        },
+        {
+          "client_id": "475607485481-tbrie5oepuapp67tfev5mjd1kptgb46g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9J_-IiqXNrKAhVWl1zMN6DX6sFpX8rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475607485481-tbrie5oepuapp67tfev5mjd1kptgb46g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
